@@ -1,0 +1,9 @@
+numpy 
+pandas 
+ipywidgets 
+streamlit 
+Image 
+Kmeans 
+scikit-learn 
+time 
+LogisticRegression
