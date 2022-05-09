@@ -5,4 +5,4 @@ streamlit
 Image 
 Kmeans 
 scikit-learn 
-LogisticRegression
+
