@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Tradepre.py
+web: sh setup.sh && streamlit run tradepre.py
